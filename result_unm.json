@@ -1,0 +1,28 @@
+{
+    "Estudiante": {
+      "PidmEstudiante": "241858",
+      "UidEstudiante": "000209733",
+      "Email": "rmarentes11@gmail.com",
+      "EmailInstitucional": "rmarente@uniminuto.edu.co",
+      "Nombre": "RICARDO ANDRES",
+      "Apellido": "MARENTES HERNANDEZ",
+      "TelefonoMovil": "3174298501",
+      "BarrioResidencia": "San Pablo",
+      "Direccion": {
+        "Direccion": "RU",
+        "Tipo": "Crr 10 # 15 - 27, Apto 4012 "
+      },
+      "Municipio": {
+        "Id": "73461",
+        "Municipio": "Murillo  (Tolima)",
+        "Departamento": {
+          "Id": "73",
+          "Departamento": "Tolima",
+          "Pais": {
+            "Id": "57",
+            "Pais": "Colombia"
+          }
+        }
+      }
+    }
+}
