@@ -17,8 +17,8 @@
       "teacherEmail": "",
       "locAdd4": "",
       "locWorkTel": "",
-      "attendanceExclude": "",
-      "meeting": "X",
+      "attendanceExclude": false,
+      "meeting": false,
       "meetingURL": "",
       "meetingURLDesc": ""
     },
@@ -39,8 +39,8 @@
       "teacherEmail": "",
       "locAdd4": "X",
       "locWorkTel": "",
-      "attendanceExclude": "",
-      "meeting": "",
+      "attendanceExclude": false,
+      "meeting": false,
       "meetingURL": "",
       "meetingURLDesc": ""
     },
@@ -61,8 +61,8 @@
       "teacherEmail": "",
       "locAdd4": "",
       "locWorkTel": "X",
-      "attendanceExclude": "",
-      "meeting": "",
+      "attendanceExclude": false,
+      "meeting": false,
       "meetingURL": "",
       "meetingURLDesc": ""
     },
@@ -83,8 +83,8 @@
       "teacherEmail": "",
       "locAdd4": "",
       "locWorkTel": "X",
-      "attendanceExclude": "",
-      "meeting": "",
+      "attendanceExclude": false,
+      "meeting": false,
       "meetingURL": "",
       "meetingURLDesc": ""
     }
